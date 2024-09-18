@@ -1,0 +1,37 @@
+<!DOCTYPE html
+<html>
+<body> 
+<h2> My classes list</h2>
+<ul>
+	<li> English 11/12 Composition A</li>
+	<li> Biology</li>
+	<li> Consumer Math</li>
+	<li>Ancient History</li>
+	<li> English 11/12 Compostition B</li>
+	<li>Financial Literacy</li>
+	<li> Web Design</li>
+	<li>Cullinary Arts B</li>
+</ul>
+<p> I love all of my classes and teachers. Below I descirbe the course work I'm doing in each class.</p>
+
+<dl>
+	<dt>English 11/12 Composition</dt>
+	<dd> -Learning the process of writting</dd>
+	<dt>Biology</dt>
+	<dd>-Learning about nutrients and how the body takes it</dd>
+	<dt>Consumer Math</dt>
+	<dd>-Learning about income and monthly nets.</dd>
+	<dt>Ancient History</dt>
+	<dd>- Learning about Mesopotamia and the first Empire</dd>
+	<dt>English 11/12 Compostition B</dt>
+	<dd>-Learning how to write  Literary Analysis Essays</dd>
+	<dt>Financial Literacy</dt>
+	<dd>- Learning hwo to creat a budget</dd>
+	<dt>Web design</dt>
+	<dd>- learning about list in code</dd>
+	<dt>Cullinary Arts</dt>
+	<dd>- Learning about soups and mother sauces</dd>
+</dl>
+
+</body>
+</html>
